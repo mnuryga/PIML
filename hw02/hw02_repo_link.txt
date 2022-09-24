@@ -1,1 +1,2 @@
-https://github.com/mnuryga/PIML/blob/master/hw02/decision_trees.ipynb
+Repo link: https://github.com/mnuryga/PIML
+hw02 link: https://github.com/mnuryga/PIML/blob/master/hw02/decision_trees.ipynb
