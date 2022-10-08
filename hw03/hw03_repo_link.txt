@@ -1,2 +1,2 @@
 Repo link: https://github.com/mnuryga/PIML
-hw03 link: https://github.com/mnuryga/PIML/blob/master/hw02/hw03.ipynb
+hw03 link: https://github.com/mnuryga/PIML/blob/master/hw03/hw03.ipynb
