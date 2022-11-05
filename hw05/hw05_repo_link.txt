@@ -1,2 +1,3 @@
 Repo link: https://github.com/mnuryga/PIML
 hw05 link: https://github.com/mnuryga/PIML/blob/master/hw05/hw05.ipynb
+Project Update link: https://docs.google.com/document/d/1YcGXFQVEo5Z0TsmRzGqm3l-m1Dud-kXyNeDZ8QzhZ1k/edit?usp=sharing
